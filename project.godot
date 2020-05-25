@@ -16,3 +16,4 @@ _global_script_class_icons={
 [application]
 
 config/name="GodotMaskShader"
+run/main_scene="res://Mask.tscn"
