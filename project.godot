@@ -17,3 +17,8 @@ _global_script_class_icons={
 
 config/name="GodotMaskShader"
 run/main_scene="res://Mask.tscn"
+
+[display]
+
+window/size/width=600
+window/size/height=1024
